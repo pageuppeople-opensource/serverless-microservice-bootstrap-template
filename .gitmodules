@@ -1,0 +1,3 @@
+[submodule "content/Serverless.Microservice.Bootstrap/Source"]
+	path = content/Serverless.Microservice.Bootstrap
+	url = https://github.com/PageUpPeopleOrg/serverless-microservice-bootstrap.git

@@ -16,5 +16,11 @@
     }],
     "primaryOutputs": [
       { "path": "Handlers/Handlers.csproj" }
+    ],
+    "sources" : [
+      {
+        "source" : "./Serverless.Microservice.Bootstrap",
+        "target" : "./"
+      }
     ]
-  }
+  } 
