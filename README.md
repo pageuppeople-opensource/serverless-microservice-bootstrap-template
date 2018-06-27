@@ -37,4 +37,10 @@ dotnet new serverlessmicroservice
 
 For information on how to use the Bootstrap, [see the project's README](https://github.com/PageUpPeopleOrg/serverless-microservice-bootstrap/blob/master/README.md).
 
+## Understanding how this works
 
+The template is published is nuget.org and is named per recommendation from Microsoft, which enables us to use the dotnet new command.
+
+[Serverless.Microservice.Bootstrap.Template 1.0.0 - Nuget link](https://www.nuget.org/packages/Serverless.Microservice.Bootstrap.Template/)
+
+[Dotnet new templates for Serverless Microservice Bootstrap Template](https://dotnetnew.azurewebsites.net/template/Serverless.Microservice.Bootstrap.Template/Serverless.Microservice.Bootstrap)
